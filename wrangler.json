@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tiktok",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0d034500-e7b4-43b5-9277-43fd16137b94",
+      "database_name": "tiktok-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
